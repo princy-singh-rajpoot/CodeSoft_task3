@@ -33,7 +33,7 @@ This is a simple Python command-line application that generates a random passwor
    Execute the script using Python:
 
    ```bash
-   python password_generator.py
+   python passwordg.py
    ```
 
 4. **Generate a Password**:
@@ -54,10 +54,6 @@ Your generated password is: g7T$!s3n9xZ2
 ## Requirements
 
 - Python 3.x
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Author
 
